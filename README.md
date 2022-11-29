@@ -4,4 +4,4 @@ You can add goals and click on them to delete one you are done
 
 
 ----PREVIEW-----
-mree-todo-app.netlify.app
+https://mree-todo-app.netlify.app/
